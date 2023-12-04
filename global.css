@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-almarai: Almarai;
+  --font-inter: Inter;
+  --font-lexend-giga: "Lexend Giga";
+  --font-neuton: Neuton;
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-lgi: 19px;
+  --font-size-smi: 13px;
+  --font-size-45xl: 64px;
+  --font-size-sm: 14px;
+
+   Colors {
+    --color-gainsboro-100: rgba(217, 217, 217, 0.88);
+  --color-aquamarine-100: rgba(33, 242, 202, 0.53);
+  --color-snow: #fff8f8;
+  --color-black: #000;
+  --color-mediumaquamarine: #4ab092;
+
+   }
+  
+
+  /* Border radiuses */
+  --br-smi: 13px;
+}
